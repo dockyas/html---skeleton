@@ -1,0 +1,21 @@
+/* 
+    Author : <www.dockycode.eu>
+*/
+
+a {
+    transition: all 0.5s ease;
+    outline:none !important;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+/* RESPONSIVE */
+
+@media (max-width:991px) {
+}
+
+@media (max-width:767px) {
+}
+
+
